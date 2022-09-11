@@ -9,9 +9,9 @@
 <br>
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.
-<hr>
+<br>
 NPM : 2106706193
-<hr>
+<br>
 OS Class : B
 <br><br>
 This is the way!
