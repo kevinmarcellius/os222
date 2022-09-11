@@ -9,6 +9,8 @@
 <br>
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.
+NPM : 2106706193
+OS Class : B
 <br><br>
 This is the way!
 <br>
