@@ -9,3 +9,11 @@ ZCZC W01 200 L04 Zoom meetings
 ZCZC W01 30 L05 Quiz related
 ZCZC W01 150 L06 Installing VirtualBox Debian Guest
 ZCZC W01 30 L07 Reading Assignments Silberschatz Operating System Concepts chapter 1
+ZCZC W02 200 L08 Zoom meetings OS Class B
+ZCZC W02 40 L09 Reading Silberschatz Operating System Concepts chapter 16 slides
+ZCZC W02 10 L10 Working on Week 2 Assignment 2: GnuPG
+ZCZC W02 45 L11 Reading Silberschatz Operating System Concepts chapter 17 slides
+ZCZC W02 40 L12 Reviewing 10 links from other students
+ZCZC W02 30 L13 Quiz related
+ZCZC W02 30 L14 Working on Week 2 Assignment 5, 6
+ZCZC W02 20 L15 Update LINKS/
