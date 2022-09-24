@@ -17,3 +17,10 @@ ZCZC W02 40 L12 Reviewing 10 links from other students
 ZCZC W02 30 L13 Quiz related
 ZCZC W02 30 L14 Working on Week 2 Assignment 5, 6
 ZCZC W02 20 L15 Update LINKS/
+ZCZC W03 200 L02 Zoom meetings OS Class B
+ZCZC W03 30 L05 Week 03 Quiz 02 related
+ZCZC W03 70 L13 Working on WEEK03 Assignments
+ZCZC W03 60 L05 Week 03 Quiz 01 related
+ZCZC W03 60 L06 Reading Silberschatz OS Concepts slides chapter 13, 14
+ZCZC W03 30 L06 Try previous midterm problems from 198.pdf
+ZCZC W03 10 L41 updating TXT/mylog.txt
