@@ -26,3 +26,4 @@ ZCZC W03 30 L06 Try previous midterm problems from 198.pdf
 ZCZC W03 10 L41 updating TXT/mylog.txt
 ZCZC W03 10 L04 updating LINKS
 ZCZC W03 40 L43 reviewing 10 links from other students
+ZCZC W03 40 L07 demo related
