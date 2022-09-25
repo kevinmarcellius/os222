@@ -24,3 +24,5 @@ ZCZC W03 60 L05 Week 03 Quiz 01 related
 ZCZC W03 60 L06 Reading Silberschatz OS Concepts slides chapter 13, 14
 ZCZC W03 30 L06 Try previous midterm problems from 198.pdf
 ZCZC W03 10 L41 updating TXT/mylog.txt
+ZCZC W03 10 L04 updating LINKS
+ZCZC W03 40 L04 reviewing 10 links from other students
