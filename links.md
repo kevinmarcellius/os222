@@ -24,13 +24,13 @@ Worth reading if you want to get familiar with the vi editor.
 
 W03<br>
 
-4. [Introduction to Linux File System](https://www.partitionwizard.com/partitionmagic/linux-file-system.html)
-Easy to understand for beginner like me.
+4. [Introduction to Linux File System](https://www.partitionwizard.com/partitionmagic/linux-file-system.html)<br>
+Easy to understand for Linux beginners like me.
 
-5. [The 5 Most Useful Linux Text-Manipulation Commands](https://www.makeuseof.com/best-linux-text-manipulation-commands/)
+5. [The 5 Most Useful Linux Text-Manipulation Commands](https://www.makeuseof.com/best-linux-text-manipulation-commands/)<br>
 Worth reading if you want to know more about text manipulation on Linux.
 
-6. [How to Use the sed Command on Linux](https://www.howtogeek.com/666395/how-to-use-the-sed-command-on-linux/)
+6. [How to Use the sed Command on Linux](https://www.howtogeek.com/666395/how-to-use-the-sed-command-on-linux/)<br>
 This article contains the power of sed command and how to use it.
 
 
