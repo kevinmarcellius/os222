@@ -27,3 +27,5 @@ ZCZC W03 10 L41 updating TXT/mylog.txt
 ZCZC W03 10 L04 updating LINKS
 ZCZC W03 40 L43 reviewing 10 links from other students
 ZCZC W03 40 L07 demo related
+ZCZC W04 200 L02 Zoom meetings OS Class B
+ZCZC W04 30 L05 Week 03 Quiz 02 related
