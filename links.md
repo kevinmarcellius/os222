@@ -33,7 +33,15 @@ Worth reading if you want to know more about text manipulation on Linux.
 6. [How to Use the sed Command on Linux](https://www.howtogeek.com/666395/how-to-use-the-sed-command-on-linux/)<br>
 This article contains the power of sed command and how to use it.
 
+W04<br>
+7. [Output Formatting Using Printf Function in C](https://www.knowprogram.com/c-programming/printf-in-c/#:~:text=Output%20Formatting%20Using%20Printf%20Function%20in%20C%201,with%20a%20String%20using%20printf%20in%20C%20)<br>
+I used this link to prepare for WEEK 04 QUIZ 02.
 
+8. [Youtube Playlist: Operating System - Memory Management](https://www.youtube.com/playlist?list=PLskQvPDUk0sJnmLgi4qBRyshlmHydbsAJ) <br>
+This playlist covers some of the materials from W03 and W04.
+
+9. [Pointers in C Explained – They're Not as Difficult as You Think](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/)<br>
+An introduction to pointers in C with some examples.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
