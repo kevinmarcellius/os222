@@ -28,4 +28,14 @@ ZCZC W03 10 L04 updating LINKS
 ZCZC W03 40 L43 reviewing 10 links from other students
 ZCZC W03 40 L07 demo related
 ZCZC W04 200 L02 Zoom meetings OS Class B
-ZCZC W04 30 L05 Week 03 Quiz 02 related
+ZCZC W04 60 L05 Week 04 Quiz 02 related
+ZCZC W04 20 L13 Working on WEEK04 Assignments
+ZCZC W04 60 L06 Reading Silberschatz OS Concepts slides chapter 9
+ZCZC W04 10 L04 updating LINKS
+ZCZC W04 40 L43 reviewing 10 links from other students
+ZCZC W04 90 L05 Week 04 Quiz 01 related
+ZCZC W04 60 L64 Helping friends (OS related problems)
+ZCZC W04 10 L01 Working on Pop Quiz (TARBALL) on Scele forum
+ZCZC W04 10 L01 Working on Pop Quiz (connect to os1) on Scele forum
+ZCZC W04 40 L07 demo related
+ZCZC W03 30 L06 Try previous midterm problems from 199.pdf
