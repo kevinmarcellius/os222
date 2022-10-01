@@ -34,6 +34,7 @@ Worth reading if you want to know more about text manipulation on Linux.
 This article contains the power of sed command and how to use it.
 
 W04<br>
+
 7. [Output Formatting Using Printf Function in C](https://www.knowprogram.com/c-programming/printf-in-c/#:~:text=Output%20Formatting%20Using%20Printf%20Function%20in%20C%201,with%20a%20String%20using%20printf%20in%20C%20)<br>
 I used this link to prepare for WEEK 04 QUIZ 02.
 
