@@ -43,6 +43,17 @@ This playlist covers some of the materials from W03 and W04.
 
 9. [Pointers in C Explained – They're Not as Difficult as You Think](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/)<br>
 An introduction to pointers in C with some examples.
+
+W05<br>
+
+10. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+An easy-to-understand explanation about virtual memory.
+
+11. [Demand Paging in Operating Systems](https://www.tutorialandexample.com/what-is-demand-paging)<br>
+This link helped me understand more about demand paging.
+
+12. [Page Replacement Algorithms in Operating System](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
+A simple explanation about page replacement algorithms
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
