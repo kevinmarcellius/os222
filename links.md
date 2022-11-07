@@ -55,6 +55,20 @@ This link helped me understand more about demand paging.
 12. [Page Replacement Algorithms in Operating System](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
 A simple explanation about page replacement algorithms
 <br>
+
+W06 <br>
+13. [OS Process](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
+A short article about OS proccess. Worth reading if you want to get familiar with this topic.
+
+14. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+An explanation about fork system call in C.
+
+15. [Threads in Operating System](https://www.javatpoint.com/threads-in-operating-system#:~:text=A%20thread%20is%20a%20single,one%20thread%20inside%20a%20process.)<br>
+An easy-to-understand explanation about threads.
+
+16. [User level thread vs Kernel level thread](https://alldifferences.net/difference-between-user-level-and-kernel-level-thread/)<br>
+difference between User level and Kernel level thread explained.
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
