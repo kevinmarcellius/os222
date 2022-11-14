@@ -69,6 +69,16 @@ An easy-to-understand explanation about threads.
 16. [User level thread vs Kernel level thread](https://alldifferences.net/difference-between-user-level-and-kernel-level-thread/)<br>
 difference between User level and Kernel level thread explained.
 
+W07<br>
+17.[Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+An easy-to-understand explanation about process synchronization.
+
+18. [Introduction to Semaphores](https://www.studytonight.com/operating-system/introduction-to-semaphores)<br>
+This link helped me understand more about semaphores.
+
+19. [Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+A short introduction about deadlock.
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
