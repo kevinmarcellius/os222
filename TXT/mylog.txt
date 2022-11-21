@@ -75,4 +75,16 @@ ZCZC W07 90 L05 Week 06 Quiz 01 related
 ZCZC W07 30 L04 updating LINKS
 ZCZC W07 100 L43 reviewing links from other students
 ZCZC W07 20 L07 demo related
+ZCZC W08 100 L02 On site OS lecture
+ZCZC W08 60 L05 Week 07 Quiz 202 related
+ZCZC W08 100 L02 On site OS lecture
+ZCZC W08 660 L13 Working on WEEK07 Assignments (Linux from Scratch)
+ZCZC W08 40 L01 Working on Pop Quiz on Scele forum
+ZCZC W08 180 L64 Helping friends (OS related problems)
+ZCZC W08 50 L06 Try previous final problems from 202.pdf
+ZCZC W08 30 L06 Reading Silberschatz OS Concepts slides chapter 5
+ZCZC W08 90 L05 Week 07 Quiz 01 related
+ZCZC W08 30 L04 updating LINKS
+ZCZC W08 100 L43 reviewing links from other students
+ZCZC W08 20 L07 demo related
 
