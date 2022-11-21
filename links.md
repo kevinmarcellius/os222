@@ -79,6 +79,15 @@ This link helped me understand more about semaphores.
 19. [Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
 A short introduction about deadlock.
 
+W08<br>
+20. [Learn OS Scheduling](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html)<br>
+This link helped understand more about scheduling
+
+21.[zlib-1.2.12.tar.xz	download](https://distfiles.macports.org/zlib/)<br>
+The download link from the LFS website doesn't work. Try this instead. Thanks to arkanalexei and gibranoderenz
+
+22. [Priority Scheduling Algorithm: Preemptive, Non-Preemptive](https://www.guru99.com/priority-scheduling-program.html)<br>
+An easy-to-understand explanation about priority scheduling.
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
