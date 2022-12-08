@@ -9,8 +9,7 @@
 <br>
 <hr>
 This is {{ site.title }} and I am {{ site.author }}.
-<br>
-NPM : 2106706193
+
 <br>
 OS Class : B
 <br><br>
